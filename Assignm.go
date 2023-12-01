@@ -21,5 +21,6 @@ func Assignment2(A string, B string) string {
 }
 func main() {
 	fmt.Println(Assignment2("Samba ", "institute"))
+	fmt.Printf("\nWhat is your name")
 
 }
